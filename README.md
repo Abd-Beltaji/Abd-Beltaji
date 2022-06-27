@@ -38,15 +38,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<center>
 
-
-<img src="https://raw.githubusercontent.com/Abd-Beltaji/Abd-Beltaji/main/assets/inStack.svg" alt="Tech in stack" style="max-width:90%">
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Abd-Beltaji/Abd-Beltaji/main/assets/inStack.svg" alt="Tech in stack" style="width: 65%">
+</p>
 <hr>
-<br>
-<img src="https://raw.githubusercontent.com/Abd-Beltaji/Abd-Beltaji/main/assets/inQueue.svg" alt="Tech in stack" style="max-width:90%">
-
-</center>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Abd-Beltaji/Abd-Beltaji/main/assets/inQueue.svg" alt="Tech in stack" style="width: 65%">
+</p>
 
 <h3 align="left">Support:</h3>
 <a href="https://ko-fi.com/abdbeltaji"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-ko-fi-funding-user-and-getting-support-from-people-who-love-your-work-logo-shadow-tal-revivo.png"/></a>
