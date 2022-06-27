@@ -44,20 +44,22 @@
 <h3 align="left">Languages and Tools:</h3>
 <center>
 
-![Tech In stack](https://raw.githubusercontent.com/Abd-Beltaji/Abd-Beltaji/main/assets/inStack.svg)
-![Tech In Queue](https://raw.githubusercontent.com/Abd-Beltaji/Abd-Beltaji/main/assets/inQueue.svg)
+
+<img src="https://raw.githubusercontent.com/Abd-Beltaji/Abd-Beltaji/main/assets/inStack.svg" alt="Tech in stack" style="width: min(40em, 90vw)">
+<hr>
+<br>
+<img src="https://raw.githubusercontent.com/Abd-Beltaji/Abd-Beltaji/main/assets/inQueue.svg" alt="Tech in stack" style="width: min(40em, 90vw)">
 
 </center>
 
 <h3 align="left">Support:</h3>
 <a href="https://ko-fi.com/abdbeltaji"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-ko-fi-funding-user-and-getting-support-from-people-who-love-your-work-logo-shadow-tal-revivo.png"/></a>
 <a href="https://www.buymeacoffee.com/abdbeltaji"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-buy-me-a-coffee-help-creators-receive-support-from-their-audience-logo-shadow-tal-revivo.png"/></a>
-<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd-beltaji&theme=monokai" alt="stats" style="width:100%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abd-beltaji&theme=monokai" style="width:50%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abd-beltaji&theme=monokai" style="width:50%">
-<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=abd-beltaji&show_icons=true&locale=en&theme=monokai" alt="abd-beltaji" style="width:50%"/><img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abd-beltaji&theme=monokai" alt="abd-beltaji" style="width:50%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd-beltaji&theme=github_dark" alt="stats" style="width:100%;display:block" />
+
+<p >
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abd-beltaji&theme=github_dark" style="width:50%;padding:0;margin:0" align="left"><img align="right"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abd-beltaji&theme=github_dark&utcOffset=8" alt="abd-beltaji" style="display:block; width:50%;padding:0;margin:0"/>
 
 </p>
