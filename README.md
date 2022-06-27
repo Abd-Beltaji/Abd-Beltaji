@@ -16,11 +16,7 @@
         />
     </a>
 </p>
-<center>
-
-![Metrics](https://metrics.lecoq.io/Abd-Beltaji?template=classic&achievements=1&activity=1&projects=1&introduction=1&repositories=1&languages=1&stars=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&projects.limit=4&projects.descriptions=true&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&config.timezone=Asia%2FBeirut&config.twemoji=true&config.octicon=true)
-
-</center>
+<center><img src="https://metrics.lecoq.io/Abd-Beltaji?template=classic&achievements=1&activity=1&projects=1&introduction=1&repositories=1&languages=1&stars=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&projects.limit=4&projects.descriptions=true&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&config.timezone=Asia%2FBeirut&config.twemoji=true&config.octicon=true"></center>
 
 - 🔭 I’m currently working on [Theta Express](https://github.com/Abd-Beltaji/ThetaExpress)
 
@@ -45,10 +41,10 @@
 <center>
 
 
-<img src="https://raw.githubusercontent.com/Abd-Beltaji/Abd-Beltaji/main/assets/inStack.svg" alt="Tech in stack" style="width: min(40em, 90vw)">
+<img src="https://raw.githubusercontent.com/Abd-Beltaji/Abd-Beltaji/main/assets/inStack.svg" alt="Tech in stack" style="max-width:90%">
 <hr>
 <br>
-<img src="https://raw.githubusercontent.com/Abd-Beltaji/Abd-Beltaji/main/assets/inQueue.svg" alt="Tech in stack" style="width: min(40em, 90vw)">
+<img src="https://raw.githubusercontent.com/Abd-Beltaji/Abd-Beltaji/main/assets/inQueue.svg" alt="Tech in stack" style="max-width:90%">
 
 </center>
 
@@ -56,10 +52,10 @@
 <a href="https://ko-fi.com/abdbeltaji"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-ko-fi-funding-user-and-getting-support-from-people-who-love-your-work-logo-shadow-tal-revivo.png"/></a>
 <a href="https://www.buymeacoffee.com/abdbeltaji"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-buy-me-a-coffee-help-creators-receive-support-from-their-audience-logo-shadow-tal-revivo.png"/></a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd-beltaji&theme=github_dark" alt="stats" style="width:100%;display:block" />
+
 
 <p >
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abd-beltaji&theme=github_dark" style="width:50%;padding:0;margin:0" align="left"><img align="right"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abd-beltaji&theme=github_dark&utcOffset=8" alt="abd-beltaji" style="display:block; width:50%;padding:0;margin:0"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd-beltaji&theme=github_dark" alt="stats" style="width:100%;padding:0;margin:0"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abd-beltaji&theme=github_dark" style="width:50%;padding:0;margin:0"><img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abd-beltaji&theme=github_dark&utcOffset=8" alt="abd-beltaji" style="width:50%;padding:0;margin:0"/>
 </p>
