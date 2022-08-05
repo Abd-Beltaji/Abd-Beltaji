@@ -53,9 +53,6 @@
 <a href="https://ko-fi.com/abdbeltaji"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-ko-fi-funding-user-and-getting-support-from-people-who-love-your-work-logo-shadow-tal-revivo.png"/></a>
 <a href="https://www.buymeacoffee.com/abdbeltaji"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-buy-me-a-coffee-help-creators-receive-support-from-their-audience-logo-shadow-tal-revivo.png"/></a>
 
-<p align="center">
-<img src="https://www.codewars.com/users/Abd-Beltaji/badges/large" alt="codewars" />
-</p>
 
 <p >
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd-beltaji&theme=github_dark" alt="stats" style="width:100%;padding:0;margin:0"/>
