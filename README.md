@@ -60,5 +60,5 @@
 <p >
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd-beltaji&theme=github_dark" alt="stats" style="width:100%;padding:0;margin:0"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abd-beltaji&theme=github_dark" style="width:50%;padding:0;margin:0"><img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abd-beltaji&theme=github_dark&utcOffset=8" alt="abd-beltaji" style="width:50%;padding:0;margin:0"/>
+    src="https://badger-badges.herokuapp.com/codewars/stats/Abd-Beltaji" alt="abd-beltaji" style="width:50%;padding:0;margin:0"/>
 </p>
