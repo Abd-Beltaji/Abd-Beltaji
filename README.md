@@ -20,14 +20,6 @@
     <img src="https://metrics.lecoq.io/Abd-Beltaji?template=classic&achievements=1&activity=1&projects=1&introduction=1&repositories=1&languages=1&stars=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&projects.limit=4&projects.descriptions=true&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&config.timezone=Asia%2FBeirut&config.twemoji=true&config.octicon=true">
 </p>
 
-- 🔭 I’m currently working on [Theta Express](https://github.com/Abd-Beltaji/ThetaExpress)
-
-- 🌱 I’m currently learning **RemixJS, 3rdWeb.**
-
-- 👯 I’m looking to collaborate on [Data-Structures](https://github.com/mohanadft/Data-Structures)
-
-- 📫 How to reach me **abd.elbeltaji@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abd-beltaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abd-beltaji" height="30" width="40" /></a>
@@ -57,5 +49,5 @@
 <p >
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abd-beltaji&theme=github_dark" alt="stats" style="width:100%;padding:0;margin:0"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abd-beltaji&theme=github_dark" style="width:50%;padding:0;margin:0"><img
-    src="https://badger-badges.herokuapp.com/codewars/stats/Abd-Beltaji" alt="abd-beltaji" style="width:50%;padding:0;margin:0"/>
+    src="https://badger.onrender.com/codewars/stats/Abd-Beltaji" alt="abd-beltaji" style="width:50%;padding:0;margin:0"/>
 </p>
